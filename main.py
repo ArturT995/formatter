@@ -1,5 +1,3 @@
-#import re
-
 path = "input.txt"
 
 def get_input(path):
@@ -16,8 +14,6 @@ def format_text(text):
             continue
         unbracketed_lines.append(line)
 
-    #print(unbracketed_lines)
-    
     def has_timestamp(line):
         return '—' in line and ('PM' in line or 'AM' in line) and ":" in line
     
@@ -44,7 +40,6 @@ def format_text(text):
             formatted_lines[i] = "\n" + line
     
     result = "\n".join(formatted_lines)
-    #print(result)
     return result
 
 
@@ -56,12 +51,9 @@ def main():
     text = get_input(path)
     result = format_text(text)
     write_text(result)
-    return
+    return result.strip()
+
 main()
 
-
-# to-do
-    #sudo apt-get install xclip`to install the xclip utility
-    #detect input from clipboard and write it to input file
-    #send output to clipboard for pasting
-    #paste results to obsidian/note app.
+if __name__ == "__main__":
+    main()

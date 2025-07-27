@@ -17,6 +17,12 @@ The program is intended to be used with Windows WSL.
 
 <img width=50% height=50% alt="Code_y0NwjJpOxn" src="https://github.com/user-attachments/assets/566a7355-ffa3-4870-afa4-e5fa781991b9" />
 
+### The difference in formats becomes more noticeable in obsidian:
+
+<img width="595" height="495" alt="Obsidian_HDdApiiyuV" src="https://github.com/user-attachments/assets/65706e47-e6e7-4c42-92c8-4786f934743b" />
+<img width="530" height="300" alt="Obsidian_vJYIuCsWh3" src="https://github.com/user-attachments/assets/7f286716-5b05-408d-8d29-1c2d0d8876ec" />
+
+
 ## Set-up
 (In WSL)
 

@@ -9,10 +9,13 @@ I am using obsidian for note taking and sometimes see some useful messages on di
 
 The program is intended to be used with Windows WSL.
 
-Before formatting:
-<img width="658" height="712" alt="Code_7qg0GoN3Tj" src="https://github.com/user-attachments/assets/6d8dc91c-85c4-4376-a822-3541ecf0d0dd" />
-After formatting:
-<img width="666" height="567" alt="Code_y0NwjJpOxn" src="https://github.com/user-attachments/assets/566a7355-ffa3-4870-afa4-e5fa781991b9" />
+### Before formatting:
+
+<img width=50% height=50% alt="Code_7qg0GoN3Tj" src="https://github.com/user-attachments/assets/6d8dc91c-85c4-4376-a822-3541ecf0d0dd" />
+
+### After formatting:
+
+<img width=50% height=50% alt="Code_y0NwjJpOxn" src="https://github.com/user-attachments/assets/566a7355-ffa3-4870-afa4-e5fa781991b9" />
 
 ## Set-up
 (In WSL)

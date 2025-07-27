@@ -33,4 +33,4 @@ run `./format_chat.sh` on console
 
 You will now have the result in your clipboard now and can see how it looked before and after in input.txt and output.txt
 
-You can copy this into your note taking app
+You can paste it into your note taking app

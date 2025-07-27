@@ -4,7 +4,7 @@ def get_input(path):
     with open(path) as f:
         text = f.read(30000)
         return text
-    
+
     
 def format_text(text):
     lines = text.split("\n")

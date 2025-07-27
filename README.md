@@ -19,7 +19,10 @@ The program is intended to be used with Windows WSL.
 
 ## Set-up
 (In WSL)
-git clone https://github.com/ArturT995/formatter
+
+`git clone https://github.com/ArturT995/formatter`
+
+Navigate to the project directory `cd formatter` 
 
 copy some messages from discord.
 
